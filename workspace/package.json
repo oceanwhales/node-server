@@ -1,0 +1,23 @@
+{
+  "name": "backend-api",
+  "version": "0.0.0",
+  "description": "backend api",
+  "main": "server.js",
+  "repository": "",
+  "author": "sloudix@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "body-parser": "*",
+    "socket.io": "~0.9.14",
+    "serve-favicon": "~2.3.0",
+    "mongodb": "*",
+    "bluebird": "3.3.4",
+    "morgan": "*",
+    "lodash": "^4.11.1",
+    "jsonwebtoken": "0.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
