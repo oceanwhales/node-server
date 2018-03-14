@@ -3,3 +3,6 @@ docker
 docker/**
 workspace/node_modules
 *.lock
+docker/data/sizeStorer.wt
+docker/data/WiredTiger.turtle
+docker/data/WiredTiger.wt
